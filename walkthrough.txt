@@ -1,0 +1,1 @@
+LA idea es montar un sistema de control térmico que grafique la temperatura de todos los subsistemas y elementos principales 
